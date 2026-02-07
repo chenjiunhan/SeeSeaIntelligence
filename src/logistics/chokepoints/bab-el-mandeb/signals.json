@@ -1,0 +1,9 @@
+{
+  "transit_blocked": {
+    "description": "海峽完全封閉，船隻無法通行",
+    "condition": "transit_status=='blocked'",
+    "based_on": "transit_status",
+    "check_freq": "15min",
+    "alert_level": "critical"
+  }
+}

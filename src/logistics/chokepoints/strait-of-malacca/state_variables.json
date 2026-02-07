@@ -1,0 +1,10 @@
+{
+  "vessel_arrivals": {
+    "description": "船隻抵達數量 (最近期數據)",
+    "source": "https://portwatch.imf.org/pages/chokepoint5",
+    "update_freq": "daily",
+    "schedule_hour": 0,
+    "schedule_minute": 30,
+    "data_type": "integer"
+  }
+}

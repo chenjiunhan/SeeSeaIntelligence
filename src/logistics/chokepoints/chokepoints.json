@@ -1,0 +1,57 @@
+{
+  "strait-of-hormuz": {
+    "name": "Strait of Hormuz",
+    "description": "全球 ~20% 原油、LNG 關鍵出口",
+    "tier": "S"
+  },
+  "bab-el-mandeb": {
+    "name": "Bab el-Mandeb",
+    "description": "紅海 ↔ 印度洋（連動蘇伊士）",
+    "tier": "S"
+  },
+  "suez-canal": {
+    "name": "Suez Canal",
+    "description": "歐亞最短能源航道",
+    "tier": "S"
+  },
+  "panama-canal": {
+    "name": "Panama Canal",
+    "description": "LNG 航線極關鍵（美國 ↔ 亞洲）",
+    "tier": "S"
+  },
+  "turkish-straits": {
+    "name": "Turkish Straits",
+    "description": "黑海油氣出口命脈（博斯普魯斯＋達達尼爾）",
+    "tier": "A"
+  },
+  "strait-of-malacca": {
+    "name": "Strait of Malacca",
+    "description": "中東 → 東亞主要油路",
+    "tier": "A"
+  },
+  "danish-straits": {
+    "name": "Danish Straits",
+    "description": "波羅的海能源出口",
+    "tier": "A"
+  },
+  "english-channel": {
+    "name": "English Channel",
+    "description": "北海能源、歐洲成品油流動",
+    "tier": "A"
+  },
+  "strait-of-gibraltar": {
+    "name": "Strait of Gibraltar",
+    "description": "",
+    "tier": "B"
+  },
+  "lombok-strait": {
+    "name": "Lombok Strait",
+    "description": "",
+    "tier": "B"
+  },
+  "sunda-strait": {
+    "name": "Sunda Strait",
+    "description": "",
+    "tier": "B"
+  }
+}
